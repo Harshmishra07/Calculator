@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image:url(/Calculator/BG_Images/img14.jpg);
+    background-image:url(./img14.jpg);
     background-size: cover; 
     background-blend-mode: overlay;
     background-color:rgba(110, 54,5,0.5);
